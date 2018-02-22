@@ -9,7 +9,8 @@ Opinionated boilerplate with modified ESLint configuration (no semicolons, less 
 ### Development
 - `npm start`  
 
-Only edit `.scss` files, `.css` files are compiled and reloaded automatically.
+Only edit `.scss` files, `.css` files are compiled and reloaded automatically.  
+Create a `.env.local` file to store local environment variables.
 
 ---
 
