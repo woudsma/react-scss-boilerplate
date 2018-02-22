@@ -1,5 +1,5 @@
 ## React SCSS Boilerplate
-Opinionated boilerplate with modified ESLint configuration (no semicolons, less strict about ARIA) for quick use with the benefits of `create-react-app`, SCSS and `eslint-config-airbnb`. Using `react-scripts@2.0.0-next` - [react-scripts@2.0](https://github.com/facebook/create-react-app/issues/3815).
+Opinionated boilerplate with modified ESLint configuration (no semicolons, less strict about ARIA) for quick use with the benefits of `create-react-app`, SCSS and `eslint-config-airbnb`. Using [react-scripts@2.0](https://github.com/facebook/create-react-app/issues/3815).
 
 ### Installation
 - `git clone https://github.com/woudsma/react-scss-boilerplate my-project`  
@@ -8,6 +8,7 @@ Opinionated boilerplate with modified ESLint configuration (no semicolons, less 
 
 ### Development
 - `npm start`  
+
 Only edit `.scss` files, `.css` files are compiled and reloaded automatically.
 
 ---
