@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import classNames from 'classnames'
-import '../styles/Main.css'
+import '../css/Main.css'
 
 class Main extends Component {
   constructor(props) {
