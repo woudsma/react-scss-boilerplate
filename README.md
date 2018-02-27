@@ -12,6 +12,11 @@ Opinionated boilerplate with modified ESLint configuration (no semicolons, less 
 Only edit `.scss` files, `.css` files are compiled and reloaded automatically.  
 Create a `.env.local` file to store local environment variables.
 
+### Production
+- `npm run build`  
+
+Running the `build` script (defined in `package.json`) creates an optimized production build, and outputs static files to the `build/` folder.
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
